@@ -9,3 +9,5 @@ accPass="12"
 accCity="132"
 console.log(accountId);
 console.table([accountEmail, accPass,accountId, accCity])
+
+// not to use var as it does not help in the scope of the js
